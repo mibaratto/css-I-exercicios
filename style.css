@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+section{
+    width: 30%;
+}
+
+article{
+    margin: 3%;
+    padding: 4%;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;  
+    color: aliceblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+
+#bloco-1 {
+    background-color: #d9854b;
+    border: solid 5px;
+    border-color: #e79d5e
+}
+
+#bloco-2 {
+    background-color: #3e6f49;
+    border: solid 5px;
+    border-color: #54976e
+}
+
+#bloco-3 {
+    background-color: #203b2e;
+    border: dashed 5px;
+    border-color: #6abf79
+}
+
+#bloco-4 {
+    background-color: #d0443b;
+    border: dashed 5px;
+    border-color: #e07c72
+}
+
